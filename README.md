@@ -102,6 +102,12 @@ PRODUCT PAGE CODE:
 ![home2](https://user-images.githubusercontent.com/94228215/146681701-a294c5ce-90a5-45c8-a95d-98df3efd451f.png)
 
 
+### Product Page:
+![pr1](https://user-images.githubusercontent.com/94228215/146681777-cdd0ac44-62d1-4fec-912d-c829e6fdec68.png)
+![pr2](https://user-images.githubusercontent.com/94228215/146681783-74379523-9337-40d1-90e0-96f28146644a.png)
+![pr3](https://user-images.githubusercontent.com/94228215/146681792-cd61c98e-1f9b-4301-be15-c038a3bca326.png)
+
+
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
