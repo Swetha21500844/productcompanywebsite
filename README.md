@@ -90,16 +90,17 @@ HOME PAGE CODE:
   </body>
 </html>
 
-   
-  
-  
+
+PRODUCT PAGE CODE:
+
 
 
 ## OUTPUT:
 
 ### Home Page:
+![home1 - Copy](https://user-images.githubusercontent.com/94228215/146681677-46c21e05-ce1a-4c82-977f-2dfc9310be8b.png)
+![home2](https://user-images.githubusercontent.com/94228215/146681701-a294c5ce-90a5-45c8-a95d-98df3efd451f.png)
 
-![output](./images/homepage.jpg)
 
 ## Result:
 
