@@ -56,8 +56,7 @@ HOME page code:
       <div class="content">
         <div class="homecontent">
           <h1>About Us</h1>
-          <img src="![craft](https://user-images.githubusercontent.com/94228215/146681312-83df94db-da17-441c-ae55-9c1ab1e1013f.png)
-" alt="Building" />
+          <img src=![craft](https://user-images.githubusercontent.com/94228215/146681312-83df94db-da17-441c-ae55-9c1ab1e1013f.png) alt="Building" />
           <div class="contenttext">
             WeCraft, the handmade craft company a wonderful collection of
             handmade items and craft kits. WeCraft is one of the gromming 
