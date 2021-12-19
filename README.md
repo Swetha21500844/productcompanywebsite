@@ -371,23 +371,19 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ### Home Page:
-![home1 - Copy](https://user-images.githubusercontent.com/94228215/146681677-46c21e05-ce1a-4c82-977f-2dfc9310be8b.png)
-![home2](https://user-images.githubusercontent.com/94228215/146681701-a294c5ce-90a5-45c8-a95d-98df3efd451f.png)
+![homeout](https://user-images.githubusercontent.com/94228215/146682548-58a965bd-bfdc-4f16-8357-694587be222b.png)
 
 
 ### Product Page:
-![pr1](https://user-images.githubusercontent.com/94228215/146681777-cdd0ac44-62d1-4fec-912d-c829e6fdec68.png)
-![pr2](https://user-images.githubusercontent.com/94228215/146681783-74379523-9337-40d1-90e0-96f28146644a.png)
-![pr3](https://user-images.githubusercontent.com/94228215/146681792-cd61c98e-1f9b-4301-be15-c038a3bca326.png)
+![prodout](https://user-images.githubusercontent.com/94228215/146682559-57a37fd4-886f-43f2-be1b-63276c5db2f0.png)
 
 
 ### People page:
-![pp1](https://user-images.githubusercontent.com/94228215/146681819-d3198a99-5481-4db5-90da-75c48d9228b9.png)
-![pp3](https://user-images.githubusercontent.com/94228215/146681825-a63d6b2b-5f0f-41da-a4a3-ed0fbffbda44.png)
+![ppout](https://user-images.githubusercontent.com/94228215/146682568-301fd7c6-c73a-4e05-b7b0-4ac02947bb2c.png)
 
 
 ### Contact us page:
-![con1](https://user-images.githubusercontent.com/94228215/146681850-5fd2c22f-50ae-4053-a6ff-c1a9d53ff4d5.png)
+![conout](https://user-images.githubusercontent.com/94228215/146682593-c4c88722-3d64-4b30-899a-1af3b8c9be6f.png)
 
 
 
