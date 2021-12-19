@@ -36,7 +36,7 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 ### HOME PAGE CODE:
- <!DOCTYPE html>
+ ``` <!DOCTYPE html>
 <html lang="en">
   <head>
     <title>WE-CRAFT </title>
@@ -89,6 +89,7 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
+```
 
 
 PRODUCT PAGE CODE:
