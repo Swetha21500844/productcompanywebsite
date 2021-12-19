@@ -234,7 +234,8 @@ PEOPLE page code:
                         <td>
                             <div class="productitem"> 
                                 <div class="itemimage">
-                                <img src="/static/img/pp3.jpg" alt="product image">
+                                <img src=![pp3](https://user-images.githubusercontent.com/94228215/146681433-1ca7c474-19db-42e8-9f8f-4a91a10bdc32.jpg)
+
                                 </div>
                                 <div class="itemname">Dilip</div> <br>
                                 <div class="itemprice">Project Director</div>
