@@ -35,8 +35,8 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-HOME PAGE CODE:
-<!DOCTYPE html>
+### HOME PAGE CODE:
+``` <!DOCTYPE html>
 <html lang="en">
   <head>
     <title>WE-CRAFT </title>
@@ -88,7 +88,7 @@ HOME PAGE CODE:
       </div>
     </div>
   </body>
-</html>
+</html>```
 
 
 PRODUCT PAGE CODE:
