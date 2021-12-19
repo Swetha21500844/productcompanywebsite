@@ -92,7 +92,7 @@ Publish the website in the given URL.
 ```
 
 
-PRODUCT PAGE CODE:
+### PRODUCT PAGE CODE:
 ```<!DOCTYPE html>
 <html lang="en">
   <head>
@@ -207,7 +207,7 @@ PRODUCT PAGE CODE:
 ```
 
 
-People page code:
+### PEOPLE PAGE CODE:
 ```<!DOCTYPE html>
 <html lang="en">
   <head>
@@ -317,7 +317,7 @@ People page code:
         </body>
         </html>
   ```
-Contact page code:
+### CONTACT PAGE CODE:
 ```<!DOCTYPE html>
 <html lang="en">
   <head>
