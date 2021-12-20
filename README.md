@@ -92,7 +92,298 @@ Publish the website in the given URL.
   </body>
 </html>
 ```
+### Product page:
+```
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>WeCraft</title>
+    <link rel="stylesheet" href="./css/layout.css" />
+    <link rel="icon" href="./img/icon.png" type="image/x-icon" />
+  </head>
 
+  <body>
+    <div class="container">
+      <div class="banner">WeCraft</div>
+      <div class="menu">
+        <div class="menuitem"><a href="/static/home.html">Home</a></div>
+        <div class="menuitemselected">
+          <a href="/static/products.html">Products</a>
+        </div>
+        <div class="menuitem"><a>People</a></div>
+        <div class="menuitem"><a>Contact Us</a></div>
+      </div>
+      <div class="content">
+        <div class="productcontent">    
+          <h1>Our Premium Products</h1>
+          <div class="productitems">
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="/static/img/pro1.jpg" alt="product image">
+                  </div>
+                  <div class="itemname">Fabric Wreath</div>
+                  <div class="itemprice">Price: Rs.1500.00 </div>
+              </div>
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="/static/img/pro2.jpg"  alt="product image">
+                  </div>
+                  <div class="itemname">Gift Tags</div>
+                  <div class="itemprice">Price: Rs.300.00 </div>
+              </div>
+              <div class="productitem"> 
+                <div class="itemimage">
+                <img src="/static/img/pro3.jpg"  alt="product image">
+                </div>
+                <div class="itemname">Painting</div>
+                <div class="itemprice">Price: Rs.900.00 </div>
+            </div>
+            <div class="productitem"> 
+              <div class="itemimage">
+              <img src="/static/img/pro4.jpg"  alt="product image">
+              </div>
+              <div class="itemname">Wall Hangings</div>
+              <div class="itemprice">Price: Rs.500.00 </div>
+          </div>
+          <div class="productitem"> 
+            <div class="itemimage">
+            <img src="/static/img/pro5.jpg"  alt="product image">
+            </div>
+            <div class="itemname">Leather craft</div>
+            <div class="itemprice">Price: Rs.2500.00 </div>
+          </div> <div class="productitem"> 
+          <div class="itemimage">
+          <img src="/static/img/pro6.jpg"  alt="product image">
+          </div>
+          <div class="itemname">Key Chain</div>
+          <div class="itemprice">Price: Rs.100.00 </div>
+          </div>
+          <div class="productitem"> 
+            <div class="itemimage">
+            <img src="/static/img/pro7.jpg" alt="product image">
+            </div>
+            <div class="itemname">Name Board</div>
+            <div class="itemprice">Price: Rs.3000.00 </div>
+        </div><div class="productitem"> 
+          <div class="itemimage">
+          <img src="/static/img/pro8.jpg" alt="product image">
+          </div>
+          <div class="itemname">Greeting Cards</div>
+          <div class="itemprice">Price: Rs.350.00 </div>
+      </div><div class="productitem"> 
+        <div class="itemimage">
+        <img src="/static/img/pro9.jpg" alt="product image">
+        </div>
+        <div class="itemname">Earings</div>
+        <div class="itemprice">Price: Rs.250.00 </div>
+    </div><div class="productitem"> 
+      <div class="itemimage">
+      <img src="/static/img/pro10.jpg" alt="product image">
+      </div>
+      <div class="itemname">Candle</div>
+      <div class="itemprice">Price: Rs.650.00 </div>
+  </div><div class="productitem"> 
+    <div class="itemimage">
+    <img src="/static/img/pro11.jpg" alt="product image">
+    </div>
+    <div class="itemname">Soap</div>
+    <div class="itemprice">Price: Rs.700.00 </div>
+</div><div class="productitem"> 
+  <div class="itemimage">
+  <img src="/static/img/bags.jpg" alt="product image">
+  </div>
+  <div class="itemname">Bags</div>
+  <div class="itemprice">Price: Rs.5000.00 </div>
+</div>
+
+          </div>
+          </div>        
+      </div>
+      <div class="footer">
+        Copyright &#169; 2021 WeCraft, Developed by K.M.Swetha.
+      </div>
+    </div>
+  </body>
+</html>
+```
+
+### People page:
+```
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>WeCraft</title>
+    <link rel="stylesheet" href="./css/layout.css" />
+    <link rel="icon" href="./img/icon.png" type="image/x-icon" />
+  </head>
+
+  <body>
+    <div class="container">
+     
+        <div class="menuitem">
+          <a href="/static/products.html">Products</a>
+        </div>
+        <div class="menuitemselected"><a href="/static/people.html">People</a></div>
+        <div class="menuitem"><a>Contact Us</a></div>
+      </div>
+      <div class="content"><!DOCTYPE html>
+        <html lang="en">
+          <head>
+            <title>WeCraft</title>
+            <link rel="stylesheet" href="./css/layout.css" />
+            <link rel="icon" href="./img/icon.png" type="image/x-icon" />
+          </head>
+        
+          <body>
+            <div class="container">
+              <div class="banner">WeCraft</div>
+              <div class="menu">
+                <div class="menuitem"><a href="/static/home.html">Home</a></div>
+                <div class="menuitem">
+                  <a href="/static/products.html">Products</a>
+                </div>
+                <div class="menuitemselected"><a href="/static/people.html">People</a></div>
+                <div class="menuitem"><a>Contact Us</a></div>
+              </div>
+              <div class="content">
+                <div class="productcontent">    
+                  <h1>Meet Our Team</h1>
+                  <table>
+                    <tr> 
+                    <td>
+                      <div class="productitem"> 
+                          <div class="itemimage">
+                          <img src="/static/img/con1.jpg" alt="product image">
+                          </div>
+                          <div class="itemname">Lisa Su </div> <br>
+                          <div class="itemprice"> CEO  </div> 
+                        </td>
+                    <td>
+                        <div class="productitem"> 
+                            <div class="itemimage">
+                            <img src="/static/img/con2.jpg" alt="product image">
+                            </div>
+                            <div class="itemname"> Karen Lynch </div> <br>
+                            <div class="itemprice">Managing Director</div>
+                        </td>
+                        <td>
+                            <div class="productitem"> 
+                                <div class="itemimage">
+                                <img src="/static/img/pp3.jpg" alt="product image">
+                                </div>
+                                <div class="itemname">Dilip</div> <br>
+                                <div class="itemprice">Project Director</div>
+        
+                        </td>  
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="productitem"> 
+                                <div class="itemimage">
+                                <img src="/static/img/pp4.jpg" alt="product image">
+                                </div>
+                                <div class="itemname">Barry Leo</div> <br>
+                                <div class="itemprice">Senior Manager</div>
+                            </td>
+                            <td>
+                                <div class="productitem"> 
+                                    <div class="itemimage">
+                                    <img src="/static/img/pp5.jpg" alt="product image">
+                                    </div>
+                                    <div class="itemname">Safra Catz</div><br>
+                                    <div class="itemprice"> Manager</div>
+        
+                            </td>
+                            <td>
+                                <div class="productitem"> 
+                                    <div class="itemimage">
+                                    <img src="/static/img/pp6.jpg" alt="product image">
+                                    </div>
+                                    <div class="itemname">David Hason</div> <br>
+                                    <div class="itemprice">Senior Team Leader</div>
+                            </td>
+        
+                    </tr>    
+                    </table>
+                    </div>
+                    </div>
+                </body>
+                </html>
+        
+
+            </tr>    
+            </table>
+            </div>
+            </div>
+        </body>
+        </html>
+```
+
+### Contact page:
+```
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>WeCraft</title>
+    <link rel="stylesheet" href="./css/layout.css" />
+    <link rel="icon" href="./img/icon.png" type="image/x-icon" />
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="banner">WeCraft</div>
+      <div class="menu">
+        <div class="menuitem"><a href="/static/home.html">Home</a></div>
+        <div class="menuitem">
+          <a href="/static/products.html">Products</a>
+        </div>
+        <div class="menuitem"><a href="/static/people.html">People</a></div>
+        <div class="menuitemselected"><a href="/static/contactus.html">Contact Us</a></div>
+      </div>
+      <div class="contactus" background-image="url(/static/img/cbg.jpg")>
+          OFFICE ADDRESS <br>
+          <hr style="height:2px;border-width:5px;color:#e6752f;background-color: #e6752f">
+          
+          806v, 
+          Marque Estate,<br>
+          Chennai,<br>
+          76009,<br>
+          India<br>
+
+          CONTACT ADDRESS<br>
+          <hr style="height:2px;border-width:5px;color:#e6752f;background-color: #e6752f">
+          
+          Tel: 044-87635421
+               044-87635422
+          Fax: 0091-67-6784890
+          E-mail: Wcrft4528@manufav.com
+          <br>
+           For Service Queries or Complaints: sales.wc@Service.com
+        
+        </div>
+        <div class="footer">
+            Copyright &#169; 2021 WeCraft, Developed by K.M.SWETHA.
+          </div>
+
+      </div>
+      </body>
+      </html>
+```
+
+## output:
+
+### Home page:
+![output](./images/homeout.png)
+
+### Product page:
+![output](./images/prodout.png)
+
+### People page:
+
+![output](./images/people.png)
+
+### Contact us page:
+![output](./images/conout.png)
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
