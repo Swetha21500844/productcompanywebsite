@@ -37,7 +37,8 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-
+### Home page:
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -90,7 +91,7 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-
+```
 
 ## Result:
 
